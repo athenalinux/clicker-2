@@ -1,4 +1,4 @@
-```javascript                                                                   
+                                                                   
   const express = require('express');                                           
   const http = require('http');                                                 
   const { Server } = require('socket.io');                                      
@@ -71,4 +71,4 @@ newChannel}`,
   server.listen(PORT, () => {                                                   
       console.log(`Server running on port ${PORT}`);                            
   });                                                                           
-```                                       
+                                      
